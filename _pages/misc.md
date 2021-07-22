@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Misc"
-permalink: /misc
+permalink: /misc/
 ---
-My motto: learn, live, and love.
+My motto: learn, live, and love :)

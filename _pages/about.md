@@ -31,7 +31,7 @@ Selected Publications
 
 Experience
 ------
-- Intern, Deloitte(Wuhan, Beijing), 2018.7-2018.8
+- Intern, **Deloitte** Tax and Business Advisory Department(Wuhan, Beijing), July 2018 - Aug. 2018
 
 
 <!-- Talks
