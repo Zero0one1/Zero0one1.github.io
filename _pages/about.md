@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at the Institute of Information Engineering(IIE), University of Chinese Academy of Sciences(UCAS), under the supervision of [Kai Chen](https://kaichen.org/). I received my B.E. from chool of Cyber Science and Engineering, Wuhan University.
+I am a master student at the Institute of Information Engineering(IIE), University of Chinese Academy of Sciences(UCAS), under the supervision of [Kai Chen](https://kaichen.org/). I received my B.E. from the school of Cyber Science and Engineering, Wuhan University.
 
 <!-- What's news
 ------
@@ -18,7 +18,7 @@ Something to say. -->
 ====== 
 You don't have to say something-->
 
-Research Interest
+Research Interests
 ------
 - Vulnerability Discovery
 - Computer Security
