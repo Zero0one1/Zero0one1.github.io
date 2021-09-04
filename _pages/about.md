@@ -27,7 +27,7 @@ Research Interests
 
 Selected Publications
 ------
-1. **RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.** Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. // In Proceedings of the ACM Conference on Computer and Communications Security (**CCS**), November, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3372297.3423360)
+1. **RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.** Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. // In Proceedings of the ACM Conference on Computer and Communications Security (**CCS**), November, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3372297.3423360) [download](/files/Advance.pdf)
 
 Experience
 ------
