@@ -33,6 +33,9 @@ Experience
 ------
 - Intern, **Deloitte** Tax and Business Advisory Department(Wuhan, Beijing), July 2018 - Aug. 2018
 
+Reported Bugs
+------
+Anjuta: [CVE-2020-22617](https://www.cve.org/CVERecord?id=CVE-2020-22617); Gsequencer: [Memory Leak](https://github.com/gsequencer/gsequencer/issues/53); Mumble: [Memory Leak](https://github.com/mumble-voip/mumble/issues/4910); Colord: [Memory Leak](https://github.com/hughsie/colord/issues/110)
 
 <!-- Talks
 ------
