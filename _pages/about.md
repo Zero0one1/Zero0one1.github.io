@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at the Institute of Information Engineering(IIE), University of Chinese Academy of Sciences(UCAS), under the supervision of [Kai Chen](https://kaichen.org/). I received my B.E. from the school of Cyber Science and Engineering, Wuhan University.
+I am a Ph.D. student in School of Computing at National University of Singapore. I received my M.S. from the Institute of Information Engineering(IIE), University of Chinese Academy of Sciences(UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University(WHU).
 
 <!-- What's news
 ------
@@ -20,10 +20,7 @@ You don't have to say something-->
 
 Research Interests
 ------
-- Vulnerability Discovery
-- Computer Security
-- Operating Systems
-- Software Engineering
+I am broadly interested in computer security and software engineering(e.g., software security, OS security, machine learning security, and hardware security). I have some experience in vulnerability discovery and natural language processing. Now I’m working on code completion and consensus protocol.
 
 Selected Publications
 ------
