@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruishi Li / 李蕊诗"
 title_separator          : "-"
 name                     : &name "Ruishi Li"
-description              : &description "A master student in Cyber Security from the Institute of Information Engineering (IIE)."
+description              : &description "A Ph.D. student."
 url                      : https://Zero0one1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zero0one1/Zero0one1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruishi Li"
   avatar           : "profile.png"
-  bio              : "A master student in Cyber Security from the Institute of Information Engineering (IIE)."
-  location         : "Beijing, China"
+  bio              : "A Ph.D. student in School of Computing at National University of Singapore."
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p7aKmMwAAAAJ&hl=zh-CN"
-  email            : "liruishi@iie.ac.cn"
+  email            : "liruishi@comp.nus.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Ruishi-Li"
   uri              :
   bitbucket        :
