@@ -25,7 +25,7 @@ I am broadly interested in computer security and software engineering (e.g., sof
 Publications
 ------
 1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
-Bo Wang, Ruishi Li, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
+Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
 
 2. [CyberSecurity Journal] The inconsistency of documentation: a study of online C standard library documents.  <br>
 **Ruishi Li**, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng. [Paper](/files/libc_doc.pdf)
