@@ -1,3 +1,12 @@
+# Usage
+
+1. Change the main page: `_pages/about.md`
+2. Change the config of the sidebar (e.g., contacts): `_config.yml`
+3. Change the config of the top bar: `_data/navigation.yml`, e.g., adding Misc, Publications, CV pages, etc.
+4. Add new publications: one way is to simply add it to the `about.md` and put the pdf files into `files` folder. Another way is to add a detailed markdown file to `_publications` folder.
+
+# Template
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
