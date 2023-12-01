@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in School of Computing at National University of Singapore. I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences(UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University(WHU). Here is my [CV](/files/CV_Ruishi_Li.pdf)
+I am a Ph.D. student in School of Computing at National University of Singapore. I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences(UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University(WHU). Here is my [CV](/files/CV_Ruishi_Li.pdf).
 
 <!-- What's news
 ------
@@ -20,19 +20,19 @@ You don't have to say something-->
 
 Research Interests
 ------
-I am broadly interested in computer security and software engineering(e.g., software security, OS security, machine learning security, and hardware security). I have some experience in vulnerability discovery and natural language processing. Now I’m working on code translation.
+I am broadly interested in computer security and software engineering (e.g., software security, OS security, machine learning security, and hardware security). I have some experience in vulnerability discovery and natural language processing. Now I’m working on code translation.
 
 Publications
 ------
 1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
-Bo Wang, Ruishi Li, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf) [Code](https://github.com/HALOCORE/TransMap)
+Bo Wang, Ruishi Li, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
 
-2. [CyberSecurity] The inconsistency of documentation: a study of online C standard library documents.  <br>
+2. [CyberSecurity Journal] The inconsistency of documentation: a study of online C standard library documents.  <br>
 **Ruishi Li**, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng. [Paper](/files/libc_doc.pdf)
 
 3. [CCS 2020] RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.  <br>
 Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. 
-[Paper](/files/Advance.pdf) [Code](https://github.com/lvtao-sec/Advance)
+[Paper](/files/Advance.pdf), [Code](https://github.com/lvtao-sec/Advance)
 
 Experience
 ------
