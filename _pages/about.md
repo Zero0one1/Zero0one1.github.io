@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in School of Computing at National University of Singapore. I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences(UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University(WHU). Here is my [CV](/files/CV_Ruishi_Li.pdf).
+I am a Ph.D. student in School of Computing at National University of Singapore (NUS). I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). Here is my [CV](/files/CV_Ruishi_Li.pdf).
 
 <!-- What's news
 ------
