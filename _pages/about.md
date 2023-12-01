@@ -24,10 +24,15 @@ I am broadly interested in computer security and software engineering(e.g., soft
 
 Publications
 ------
-1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. Bo Wang, Ruishi Li, Mingkai Li, Prateek Saxena. 
-[Paper](/files/transmap.pdf) [Code](https://github.com/HALOCORE/TransMap)
-2. [CyberSecurity] The inconsistency of documentation: a study of online C standard library documents. **Ruishi Li**, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng. [Paper](/files/libc_doc.pdf)
-3. [CCS 2020] RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection. Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. 
+1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. 
+Bo Wang, Ruishi Li, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf) [Code](https://github.com/HALOCORE/TransMap)
+
+2. [CyberSecurity] The inconsistency of documentation: a study of online C standard library documents. 
+
+**Ruishi Li**, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng. [Paper](/files/libc_doc.pdf)
+
+3. [CCS 2020] RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection. 
+Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. 
 [Paper](/files/Advance.pdf) [Code](https://github.com/lvtao-sec/Advance)
 
 Experience
