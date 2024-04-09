@@ -4,6 +4,7 @@
 2. Change the config of the sidebar (e.g., contacts): `_config.yml`
 3. Change the config of the top bar: `_data/navigation.yml`, e.g., adding Misc, Publications, CV pages, etc.
 4. Add new publications: one way is to simply add it to the `about.md` and put the pdf files into `files` folder. Another way is to add a detailed markdown file to `_publications` folder.
+5. Add new blog posts: add a markdown file to `_posts` folder. Put its refered images into `images` folder. Suggest to rename the image files with the date of the post, like the existing ones.
 
 # Template
 
