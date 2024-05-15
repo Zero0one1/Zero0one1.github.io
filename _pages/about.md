@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in School of Computing at National University of Singapore (NUS). I'm working with Prateek Saxane as my advisor. Here is my [CV](/files/CV_Ruishi_Li.pdf).
+I am a Ph.D. student in School of Computing at National University of Singapore (NUS). I'm working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) as my advisor. Here is my [CV](/files/CV_Ruishi_Li.pdf).
 
 <!-- Before joining NUS, I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). -->
 
