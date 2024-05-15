@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruishi Li"
   avatar           : "bio-ruishi-cropped.png"
-  bio              : "A Ph.D. student in School of Computing at National University of Singapore."
-  location         : "COM3-02-18, 119391" # School of Computing, NUS, Singapore 
+  bio              : "A Ph.D. student in School of Computing at National University of Singapore. \n Location: COM3-02-18, School of Computing, NUS, Singapore 119391"
+  location         : # "COM3-02-18, 119391" # School of Computing, NUS, Singapore 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p7aKmMwAAAAJ&hl=zh-CN"
