@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ruishi Li"
-  avatar           : "bio-ruishi.png"
+  avatar           : "bio-ruishi-cropped.png"
   bio              : "A Ph.D. student in School of Computing at National University of Singapore."
-  location         : "Singapore"
+  location         : "COM3-01-18, School of Computing, NUS, Singapore 119391"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p7aKmMwAAAAJ&hl=zh-CN"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruishi-li"
+  linkedin         : "ruishili"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "ruishili"
   vine             :
   weibo            :
   xing             :

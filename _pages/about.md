@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in School of Computing at National University of Singapore (NUS). I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). Here is my [CV](/files/CV_Ruishi_Li.pdf).
+I am a Ph.D. student in School of Computing at National University of Singapore (NUS). I'm working with Prateek Saxane as my advisor. Here is my [CV](/files/CV_Ruishi_Li.pdf).
+
+<!-- Before joining NUS, I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). -->
 
 <!-- What's news
 ------
@@ -20,12 +22,20 @@ You don't have to say something-->
 
 Research Interests
 ------
-I am broadly interested in computer security and software engineering (e.g., software security, OS security, machine learning security, and hardware security). I have some experience in vulnerability discovery and natural language processing. Now I’m working on code translation.
+- Software Security
+- Code Translation
+- Large Language Model
+<!-- I am broadly interested in computer security and software engineering (e.g., software security, OS security, machine learning security, and hardware security). I have some experience in vulnerability discovery and natural language processing. Now I’m working on code translation. -->
 
 Publications
 ------
+
+### 2023 - Now
+
 1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
 Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
+
+### Before 2022
 
 2. [CyberSecurity Journal] The inconsistency of documentation: a study of online C standard library documents.  <br>
 **Ruishi Li**, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng. [Paper](/files/libc_doc.pdf)
@@ -33,6 +43,12 @@ Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf)
 3. [CCS 2020] RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.  <br>
 Tao Lv, **Ruishi Li**, Yi Yang, Kai Chen, Xiaojing Liao, XiaoFeng Wang, Peiwei Hu and Luyi Xing. 
 [Paper](/files/Advance.pdf), [Code](https://github.com/lvtao-sec/Advance)
+
+Teaching
+------
+Past modules I have TAed:
+- Computer Security (CS3235, Spring 2024)
+- Computer Security (CS3235, Spring 2023)
 
 Experience
 ------
