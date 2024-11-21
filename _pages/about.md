@@ -35,6 +35,9 @@ Publications
 1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
 Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
 
+2. [NDSS 2025] Translating C To Rust: Lessons from a User Study. <br>
+**Ruishi Li**, Bo Wang, Tianyu Li, Prateek Saxena, Ashish Kundu. [Paper](https://www.comp.nus.edu.sg/~prateeks/papers/C-Rust-User-Study.pdf)
+
 ### Before 2022
 
 2. [CyberSecurity Journal] The inconsistency of documentation: a study of online C standard library documents.  <br>
