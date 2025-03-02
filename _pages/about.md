@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS). I'm working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) as my advisor in the [KISP Lab](https://kisp-nus.github.io/). Here is my [CV](/files/CV_Ruishi_Li.pdf). Automatic Program Translation project. I'm working on the [Automatic Program Translation project](https://kisp-nus.github.io/projects/apt).
+I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS). I'm working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) as my advisor in the [KISP Lab](https://kisp-nus.github.io/). Here is my [CV](/files/CV_Ruishi_Li.pdf). I'm working on the [Automatic Program Translation project](https://kisp-nus.github.io/projects/apt).
 
 <!-- Before joining NUS, I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). -->
 
