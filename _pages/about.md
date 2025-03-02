@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS). I'm working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) as my advisor. Here is my [CV](/files/CV_Ruishi_Li.pdf).
+I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS). I'm working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) as my advisor. Here is my [CV](/files/CV_Ruishi_Li.pdf). Automatic Program Translation project. I'm working on the [Automatic Program Translation project](https://kisp-nus.github.io/projects/apt).
 
 <!-- Before joining NUS, I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). -->
 
@@ -32,11 +32,12 @@ Publications
 
 ### 2023 - Now
 
-1. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
+1. [NDSS 2025] Translating C To Rust: Lessons from a User Study. <br>
+**Ruishi Li\***, Bo Wang\*, Tianyu Li, Prateek Saxena, Ashish Kundu. [Paper](https://arxiv.org/abs/2411.14174)
+
+2. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
 Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
 
-2. [NDSS 2025] Translating C To Rust: Lessons from a User Study. <br>
-**Ruishi Li\***, Bo Wang\*, Tianyu Li, Prateek Saxena, Ashish Kundu. [Paper](https://arxiv.org/abs/2411.14174)
 
 ### Before 2022
 
