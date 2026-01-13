@@ -32,13 +32,16 @@ Publications
 
 ### 2023 - Now
 
-1. [PLDI 2025] Program Skeletons for Automated Program Translation. <br>
+1. [Arxiv] Adversarial Agent Collaboration for C to Rust Translation. <br>
+Tianyu Li, **Ruishi Li**, Bo Wang, Brandon Paulsen, Umang Mathur, Prateek Saxena. [Paper](https://arxiv.org/abs/2510.03879), [Code](https://github.com/kisp-nus/ACToR)
+
+2. [PLDI 2025] Program Skeletons for Automated Program Translation. <br>
 Bo Wang\*, Tianyu Li\*, **Ruishi Li**, Umang Mathur, Prateek Saxena. [Paper](https://dl.acm.org/doi/10.1145/3729287), [Code](https://github.com/lty12b9b0a1/SKEL)
 
-2. [NDSS 2025] Translating C To Rust: Lessons from a User Study. <br>
+3. [NDSS 2025] Translating C To Rust: Lessons from a User Study. <br>
 **Ruishi Li\***, Bo Wang\*, Tianyu Li, Prateek Saxena, Ashish Kundu. [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-1407-paper.pdf), [Benchmark](https://github.com/Zero0one1/c2rs-userstudy-benchmark)
 
-3. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
+4. [ESEC/FSE 2023] TransMap: Pinpointing Mistakes in Neural Code Translation. <br>
 Bo Wang, **Ruishi Li**, Mingkai Li, Prateek Saxena. [Paper](/files/transmap.pdf), [Code](https://github.com/HALOCORE/TransMap)
 
 
