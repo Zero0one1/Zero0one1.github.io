@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS), working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) in the [KISP Lab](https://kisp-nus.github.io/). My research focuses on automatic program translation, especially translating C to safe and idiomatic Rust. Here is my [CV](/files/CV_Ruishi_Li.pdf). I'm working on the [Automatic Program Translation project](https://kisp-nus.github.io/projects/apt).
+I am a Ph.D. student in the School of Computing at the National University of Singapore (NUS), working with [Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/) in the [KISP Lab](https://kisp-nus.github.io/). My research focuses on automatic program translation, especially **translating C to safe and idiomatic Rust**. Here is my [CV](/files/CV_Ruishi_Li.pdf). I'm working on the [Automatic Program Translation project](https://kisp-nus.github.io/projects/apt).
 
-**News** 📣 2025 Dec – Released *ACToR*, an adversarial multi-agent system that automatically translates real-world C utilities to Rust with >90% test pass rate ([Github repo](https://github.com/kisp-nus/ACToR)). Looking forward to your feedback!
+**News** 📣 2025 Dec – Released *ACToR*, **an adversarial multi-agent system** that automatically translates real-world C utilities to Rust with >90% test pass rate ([Github repo](https://github.com/kisp-nus/ACToR)). Looking forward to your feedback!
 
 <!-- Before joining NUS, I received my M.S. from the Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS) and B.E. from the school of Cyber Science and Engineering, Wuhan University (WHU). -->
 
@@ -34,7 +34,7 @@ Publications
 
 ### 2023 - Now
 
-1. **[Arxiv]** Adversarial Agent Collaboration for C to Rust Translation. <br>
+1. **[(Under review) Arxiv]** Adversarial Agent Collaboration for C to Rust Translation. <br>
 Tianyu Li, **Ruishi Li**, Bo Wang, Brandon Paulsen, Umang Mathur, Prateek Saxena. [Paper](https://arxiv.org/abs/2510.03879), [Code](https://github.com/kisp-nus/ACToR)
 
 2. **[PLDI 2025]** Program Skeletons for Automated Program Translation. <br>
